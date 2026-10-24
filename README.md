@@ -15,6 +15,7 @@ Hi there, I'm Aimee! 👋
 🚀 What I'm Currently Working On:
 
 ☕ Group Orders — Vue.js Project
+https://github.com/mody963/webdev
 - A web application developed as part of a team project, designed to organize group orders for coffee beans.
 - Building the frontend using Vue.js and TypeScript
 - Creating and managing group orders
@@ -24,6 +25,7 @@ Hi there, I'm Aimee! 👋
 - Collaborating with teammates using Git and GitHub
 
 🔌 REST API Development & Testing
+https://github.com/mody963/software-construction-cargo
 - Working on a REST API project involving resource management, API testing, and code refactoring.
 - Writing automated tests using Python, pytest, and requests
 - Testing CRUD operations, HTTP responses, and input validation
